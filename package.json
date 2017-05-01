@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/rafaelthedevops/LearningTypeScript/issues"
   },
-  "homepage": "https://github.com/rafaelthedevops/LearningTypeScript#readme"
+  "homepage": "https://github.com/rafaelthedevops/LearningTypeScript#readme",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "typescript": "^2.3.2",
+    "typings": "^2.1.1",
+    "webpack": "^2.4.1"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "cfe-ts-setup",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "webpack --watch --optimize-minimize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelthedevops/LearningTypeScript.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "rafaelthedevops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelthedevops/LearningTypeScript/issues"
+  },
+  "homepage": "https://github.com/rafaelthedevops/LearningTypeScript#readme"
+}

@@ -4,16 +4,21 @@
   "description": "Learning Typescript",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "webpack --watch --optimize-minimize"
+    "main": "webpack --watch --optimize-minimize",
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafaelthedevops/LearningTypeScript.git"
   },
   "keywords": [
-    "learning"
+    "learning",
+    "typescript",
+    "webpack",
+    "tutorial"
   ],
-  "author": "rafaelthedevops",
+  "author": "Rafael Monteiro",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rafaelthedevops/LearningTypeScript/issues"
